@@ -1,0 +1,976 @@
+<resources>
+    <string name="app_name">Panduan Shalat</string>
+    <string name="shalat_subuh">
+        1. Shalat subuh merupakan shalat yang jumlah rakaatnya paling sedikit yaitu :\n
+        hanya ada 2 (dua) rakaat dalam shalat subuh, dengan mengeraskan bacaannya dikedua rakaat tersebut dan,\n
+        duduk tasyahhud satu kali pada rakaat terakhir.\n
+        Adapun niat shalat shubuh arab,latin dan artinya adalah sebagai berikut:\n\n
+اُصَلّى فَرْضَ الصُّبْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى\n
+
+USHOLLII FARDHOSH SHUBHI ROKATAINI MUSTAQBILAL QIBLATI ADAA-AN MAMUUMAN LILLAAHI TAAALA.\n\n
+Artinya :\n\n
+Aku berniat shalat fardu Shubuh dua rakaat menghadap kiblat sebagai mamum karena Allah Taala\n\n</string>
+    <string name="shalat_subuh1">
+        2. Kemudian takbiratul ihram (mengangkat kedua tangan sambil membaca:\n
+        Allaahu akbar (Allah Maha Besar).\n
+3. Kemudian kedua tangan disedekapkan pada dada dan membaca doa iftitah:\n\n
+
+للهُ اَكْبَرْ كَبِيْرًا وَالْحَمْدُ ِللهِ كَثِيْرً وَسُبْحَانَ اللهِ بُكْرَةً وَأَصِيْلاً.\n أِنِّ وَجَّهْةُ وَجْهِيَ ِللذِيْ فَطَرَالسَّمَوَاتِ وَاْلآَرْضَ حَنِيِيْفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِيْنَ.\n إِنَّ صَلاَتِيْ وَنُسُكِيْ وَمْحْيَايَ وَمَمَاتِيْ ِللهِ رَبِّ الْعَالَمِيْنَ.\n لاَشَرِيْكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِيْن\n
+
+Allaahu akbaru kabiiraa wal hamdu lillaahi katsiiraa wasubhaanallaahi bukrataw waashiilaa.\n
+        Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifam muslimaw wamaa ana minal musyrikiin.\n
+        Inna shalaatii wanusukii wamahyaaya wamamaatii lillaahirabbil aalamiin.\n
+        Laa syariika lahuu wa bidzaalika umirtu wa ana minal muslimiin.\n\n
+
+Artinya:\n\n
+
+Allah Maha Besar, Maha Sempurna kebesaran-Nya. \n
+        Segala puji bagi Allah, pujian yang sebanyak-banyaknya.\n
+        Dan Maha Suci Allah sepanjang pagi dan petang.\n
+        Kuhadapkan wajahku kepada zat yang telah menciptakan langit dan bumi dengan penuh ketulusan dan kepasrahan dan\n
+        aku bukanlah termasuk orang-orang yang musyrik.\n
+        Sesungguhnya shalatku, ibadahku, hidupku dan matiku semuanya untuk Allah,penguasa alam semesta.\n
+        Tidak ada sekutu bagi-Nya dan dengan demikianlah aku diperintahkan dan aku termasuk orang-orang islam.\n\n</string>
+    <string name="shalat_subuh2">
+
+     4.   Dilanjutkan dengan membaca surat Al-Fatihah:\n\n
+
+.بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ .\n الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ .\n الرَّحْمَٰنِ الرَّحِيم .\n مَالِكِ يَوْمِ الدِّينِ   .\n إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِين\n
+.اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ \n. صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّين\n
+
+Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil aalamiin.\n
+        Arrahmaanir rahiim.\n
+        Maalikiyaumiddiin. Iyyaaka nabudu waiyyaaka nastaiinu.\n
+        Ihdinash shiraathal mustaqiim. Shiraathal ladziina anamta alaihim ghairil maghdhuubi alaihim waladhdhaalliin.\n
+        Aamiin.\n\n
+
+Artinya:\n\n
+
+Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.\n
+        Segala puji bagi Allah, Tuhan semesta alam.\n
+        Yang Maha Pengasih lagi Maha Penyayang. Penguasa hari pembalasan.\n
+        Hanya kepada-Mu lah aku menyembah dan hanya kepada-Mu lah aku memohon pertolongan.\n
+        Tunjukilah kami jalan yang lurus. Yaitu jalannya orang-orang yang telah Kau berikan nikmat,\n
+        bukan jalannya orang-orang yang Kau murkai dan bukan pula jalannya orang-orang yang sesat.\n\n
+
+Dilanjutkan dengan membaca salah satu surah pendek atau ayat-ayat dalam Al-Quran.\n\n</string>
+    <string name="shalat_subuh3">
+
+        5. Ruku\n\n
+
+Selesai membaca surat, lalu kedua tangan diangkat setinggi telinga dan membaca Allaahu akbar,\n
+        kemudian badan dibungkukkan, kedua tangan memegang lutut dan  ditekankan.\n
+        Usahakan antara punggung dan kepala supaya rata. Setelah sempurna, kemudian membaca:\n
+
+Subhaana rabbiyal \‘adziimi wa bihamdih. (3x)\n\n
+
+Artinya:\n\n
+
+Maha Suci Tuhanku Yang Maha Agung serta memujilah aku kepada-Nya. (3x)\n\n</string>
+    <string name="shalat_subuh4">
+
+6. I\’tidal\n
+
+Setelah ruku\’, kemudian bangkit tegak dengan mengangkat kedua tangan setinggi telinga sambil membaca:\n
+
+Sami\’allaahu liman hamidah.\n\n
+
+Artinya:\n\n
+
+Allah mendengar orang yang memuji-Nya.\n
+
+Setelah berdiri tegak lalu membaca:\n
+
+Rabbanaa lakal hamdu mil\’us samaawati wa mil \‘ulardhi wa mil \‘umaasyi\’ta min syai\’in ba\’du.\n\n
+
+Artinya:\n\n
+
+Ya Allah Tuhan Kami. Bagi-Mu segala puji, sepenuh langit dan bumi dan sepenuh barang yang Engkau kehendaki sesudah itu.\n\n
+        7. Sujud\n\n
+
+Selesai I\’tidal lalu sujud; dengan meletakkan dahi di alas shalat.\n
+        Ketika turun, yaitu dari berdiri i\’tidal ke sujud sambil memabca Allahuu akbar.\n
+        Dan saat sujud membaca tasbih:\n
+
+Subhaana rabbiyal a\‘laa wa bihamdih. (3x)\n\n
+
+Artinya:\n\n
+
+Maha Suci Allah, serta memujilah aku kepada-Nya\n\n</string>
+    <string name="shalat_subuh5">
+
+        8. Duduk di antar dua Sujud\n\n
+
+Setelah sujud lalu bangun untuk duduk sambil membaca Allaahu akbar, dan saat duduk membaca:\n
+
+Rabbighfirlii warhamnii wajburnii warfa\’nii warzuqnii wahdinii wa\’aafinii wa\’fu \‘annii.\n
+
+Artinya:\n\n
+
+Ya Allah, ampunilah dosaku, belas kasihanilah aku dan angkatlah derajatku dan berilah rezeki kepadaku,\n
+        dan berilah aku petunjuk, dabn berilah kesehatan bagiku dan berilah ampunan kepadaku.\n\n
+
+9. Sujud Kedua\n\n
+
+Sujud kedua, ketiga, dan keempat dikerjakan seperti sujud pertama baik cara maupun bacaannya.\n\n</string>
+    <string name="shalat_subuh6">
+
+10. Tasyahud Awal\n\n
+
+Pada raka\’at kedua (jika kita Shalat kecuali shalat Subuh), \n
+        kita duduk membentuk tasyahud awal dengan sikap kaki kanan tegak dan kaki kiri diduduki sambil membaca tasyahud awal:\n\n
+
+اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ ِللهِ،\n
+        السَّلاَمُ عَلَيْكَ اَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،\n
+        السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِاللهِ الصَّالِحِيْنَ،\n
+        أَشْهَدُ اَنْ لآ إِلَهَ إِلاَّاللهُ وَاَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهُ،\n
+        اَللهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ،\n
+
+Attahiyyaatul mubaarakaatush shalawatuth thayyibaatu lillaah.\n
+        Assalaamu \‘alaika ayyuhan nabiyyu warahmatullaahi wabarakaatuh.\n
+        Assalaamu \‘alainaa wa \‘alaa \‘ibadadillaahish shaalihiin.\n
+        Asyhadu allaa ilaaha illallaah. Wa asyhadu anna muhammadar rasuulullaah.\n
+        Allaahumma shalli \‘alaa sayyidinaa muhammad.\n\n
+        Artinya:
+
+Segala kehormatan, keberkahan, rahmat dan kebaikan adalah milik Allah.\n
+        Semoga keselamatan, rahmat Allah dan berkah-Nya (tetap tercurahkan) atas mu, wahai Nabi (Muhammad).\n
+        Semoga keselamatan (tetap terlimpahkan) atas kami dan atas hamba-hamba Allah yang saleh.\n
+        Aku bersaksi bahwa tidak ada Tuhan selain Allah.\n
+        Dan aku bersaksi bahwa muhammad adalah utusan Allah.\n
+        Ya Allah, limpahkanlah rahmat kepada Nabi Muhammad.\n\n
+
+Selesai Tahiyat Awal, lalu berdiri kembali dengan mengangkat kedua tangan setinggi telinga sambil membaca Allaahu akbar\n
+        untuk mengerjakan raka\’at ketiga (cara-caranya sama seperti raka\’at pertama \n
+        (tanpa dimulai membaca do\’a Iftitah dan sesudah membaca surat Al-Fatihah ,\n
+        tidak membaca surat pendek maupun ayat-ayat Al-Qur\’an).\n\n
+
+Selesai raka\’at ketiga, langsung mengerjakan raka\’at keempat, \n
+        (cara-caranya sama seperti raka’at kedua, hanya saja setelah sujud terakhir (sujud kedua),\n
+        lalu duduk kaki bersilang (tawarruk) atau tahiyat akhir.\n</string>
+    <string name="shalat_subuh7">
+
+             11.Tahiyatul Akhir\n\n
+
+Cara duduknya:\n
+            usahakan pantat menempel di alas shalat dan kaki kiri dimasukkan ke bawah kaki kanan.\n
+            Jari-jari kaki kanan tetap menekan ke kiri alas shalat.\n
+            Bacaan tahiyat akhir sama seperti bacaan tahiyat awal ditambah dengan bacaan berikut ini:\n
+Wa \‘alaa aali sayyidinaa muhammad.\n\n
+Artinya:\n
+Ya Allah, limpahkanlah rahmat atas keluarga Nabi Muhammad SAW.\n\n
+Disunatkan membaca Shalawat Ibrahimiyah :\n\n
+
+كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْمَ\n
+            وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّد\n
+            كَمَا بَرَكْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْم\n
+            فِى الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَجِيْد\n
+
+Kamaa shallaitaa \‘alaa sayyidinaa ibraahiim wa \‘alaa aali sayyidinaa ibraahiim.\n
+            Wa baarik \‘alaa sayyidinaa muhammad wa \‘alaa aali sayyidinaa muhammad.\n
+            Kamaa baarakta \‘alaa sayyidinaa ibraahiim wa \‘alaa aali sayyidinaa ibraahiim.\n
+            Fil \‘aalamiina innaka hamiidummajiid.\n\n
+
+            Artinya:\n\n
+
+Sebagaimana pernah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya.\n
+            Dan limpahilah berkah atas Nabi Muhammad beserta para keluarganya.\n
+            Sebagaimana Engkau memberi berkah kepada Nabi Ibrahim beserta keluarganya.\n
+            Di seluruh alam semesta Engkaulah Yang Terpuji dan Maha Mulia.\n\n</string>
+    <string name="shalat_subuh8">
+
+12. Salam\n\n
+
+Selesai tahiyat akhir, kemudian salam dengan menengok ke kanan dan ke kiri sambil membaca:\n
+
+Assalaamu’alaikum warahmatullaahi wabarakaatuh.\n\n
+
+Artinya:\n\n
+
+Keselamatan dan rahmat Allah semoga tetap pada kamu sekalian.\n
+
+Pada waktu salam pertama kita terlebih dahulu menengok ke sebelah kanan, baru ke sebelah kiri.\n
+            Dengan salam, berarti shalat kita telah selesai.\n
+
+
+
+    </string>
+    <string name="shalat_zuhur">
+        Shalat dzhuhur adalah shalat yang dilaksanakan pada saat tergelincirnya matahari.\n
+        Adapun jumlah rakaat shalat zhuhur adalah 4 (empat) rakaat, \n
+        dengan memelankan bacaannya dan dengan duduk tasyahhud dua kali duduk tasyahhud. \n
+        Dan berikut adalah bacaan niat shalat dzuhur 4 rakaat bahasa arab, latin dan artinya lengkap.\n\n
+
+اُصَلّى فَرْضَ الظُّهْرِاَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى\n
+
+USHOLLII FARDHODL DHUHRI ARBAA RAKAAATIM MUSTAQBILAL QIBLATI ADAA-AN MAMUUMAN LILLAAHI TAAALA.\n\n
+Artinya :\n\n
+Aku berniat shalat fardu Dhuhur empat rakaat menghadap kiblat sebagai mamum karena Allah Taala\n\n</string>
+    <string name="shalat_zuhur1">
+
+
+         2. Kemudian takbiratul ihram (mengangkat kedua tangan sambil membaca: Allaahu akbar (Allah Maha Besar).\n
+
+3. Kemudian kedua tangan disedekapkan pada dada dan membaca doa iftitah:\n\n
+
+للهُ اَكْبَرْ كَبِيْرًا وَالْحَمْدُ ِللهِ كَثِيْرً وَسُبْحَانَ اللهِ بُكْرَةً وَأَصِيْلاً.\n أِنِّ وَجَّهْةُ وَجْهِيَ ِللذِيْ فَطَرَالسَّمَوَاتِ وَاْلآَرْضَ حَنِيِيْفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِيْنَ.\n إِنَّ صَلاَتِيْ وَنُسُكِيْ وَمْحْيَايَ وَمَمَاتِيْ ِللهِ رَبِّ الْعَالَمِيْنَ.\n لاَشَرِيْكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِيْن\n
+
+        Allaahu akbaru kabiiraa wal hamdu lillaahi katsiiraa wasubhaanallaahi bukrataw waashiilaa.\n
+        Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifam muslimaw wamaa ana minal musyrikiin.\n
+        Inna shalaatii wanusukii wamahyaaya wamamaatii lillaahirabbil aalamiin.\n
+        Laa syariika lahuu wa bidzaalika umirtu wa ana minal muslimiin.\n
+
+Artinya:\n\n
+
+Allah Maha Besar, Maha Sempurna kebesaran-Nya. \n
+        Segala puji bagi Allah, pujian yang sebanyak-banyaknya. Dan Maha Suci Allah sepanjang pagi dan petang.\n
+        Kuhadapkan wajahku kepada zat yang telah menciptakan langit dan bumi dengan penuh ketulusan dan kepasrahan dan\n
+        aku bukanlah termasuk orang-orang yang musyrik. Sesungguhnya shalatku, ibadahku, hidupku dan matiku semuanya untuk Allah,\n
+        penguasa alam semesta.\n
+        Tidak ada sekutu bagi-Nya dan dengan demikianlah aku diperintahkan dan aku termasuk orang-orang islam.\n</string>
+    <string name="shalat_zuhur2">
+         4.   Dilanjutkan dengan membaca surat Al-Fatihah:\n\n
+
+.بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ .\n الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ .\n الرَّحْمَٰنِ الرَّحِيم .\n مَالِكِ يَوْمِ الدِّينِ   .\n إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِين\n
+.اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ \n. صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّين\n\n
+
+Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil aalamiin.\n
+        Arrahmaanir rahiim.\n
+        Maalikiyaumiddiin. Iyyaaka nabudu waiyyaaka nastaiinu.\n
+        Ihdinash shiraathal mustaqiim. Shiraathal ladziina anamta alaihim ghairil maghdhuubi alaihim waladhdhaalliin.\n
+        Aamiin.\n
+
+Artinya:\n\n
+
+Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.\n
+        Segala puji bagi Allah, Tuhan semesta alam.\n
+        Yang Maha Pengasih lagi Maha Penyayang. Penguasa hari pembalasan.\n
+        Hanya kepada-Mu lah aku menyembah dan hanya kepada-Mu lah aku memohon pertolongan.\n
+        Tunjukilah kami jalan yang lurus. Yaitu jalannya orang-orang yang telah Kau berikan nikmat,\n
+        bukan jalannya orang-orang yang Kau murkai dan bukan pula jalannya orang-orang yang sesat.\n\n
+
+Dilanjutkan dengan membaca salah satu surah pendek atau ayat-ayat dalam Al-Quran.\n</string>
+    <string name="shalat_zuhur3">
+              5. Ruku\n\n
+
+Selesai membaca surat, lalu kedua tangan diangkat setinggi telinga dan membaca Allaahu akbar,\n
+        kemudian badan dibungkukkan, kedua tangan memegang lutut dan  ditekankan.\n
+        Usahakan antara punggung dan kepala supaya rata. Setelah sempurna, kemudian membaca:\n
+
+Subhaana rabbiyal \‘adziimi wa bihamdih. (3x)\n\n
+
+Artinya:\n\n
+
+Maha Suci Tuhanku Yang Maha Agung serta memujilah aku kepada-Nya. (3x)\n\n</string>
+    <string name="shalat_zuhur4">
+
+6. I\’tidal\n
+
+Setelah ruku\’, kemudian bangkit tegak dengan mengangkat kedua tangan setinggi telinga sambil membaca:\n
+
+Sami\’allaahu liman hamidah.\n\n
+
+Artinya:\n\n
+
+Allah mendengar orang yang memuji-Nya.\n
+
+Setelah berdiri tegak lalu membaca:\n
+
+Rabbanaa lakal hamdu mil\’us samaawati wa mil \‘ulardhi wa mil \‘umaasyi\’ta min syai\’in ba\’du.\n\n
+
+Artinya:\n\n
+
+Ya Allah Tuhan Kami. Bagi-Mu segala puji, sepenuh langit dan bumi dan sepenuh barang yang Engkau kehendaki sesudah itu.\n\n
+         7. Sujud\n\n
+
+Selesai I\’tidal lalu sujud; dengan meletakkan dahi di alas shalat.\n
+        Ketika turun, yaitu dari berdiri i\’tidal ke sujud sambil memabca Allahuu akbar.\n
+        Dan saat sujud membaca tasbih:\n
+
+Subhaana rabbiyal a\‘laa wa bihamdih. (3x)\n\n
+
+Artinya:\n\n
+
+Maha Suci Allah, serta memujilah aku kepada-Nya\n\n</string>
+    <string name="shalat_zuhur5">
+
+        8. Duduk di antar dua Sujud\n\n
+
+Setelah sujud lalu bangun untuk duduk sambil membaca Allaahu akbar, dan saat duduk membaca:\n
+
+Rabbighfirlii warhamnii wajburnii warfa\’nii warzuqnii wahdinii wa\’aafinii wa\’fu \‘annii.\n\n
+
+Artinya:\n\n
+
+Ya Allah, ampunilah dosaku, belas kasihanilah aku dan angkatlah derajatku dan ebrilah rezeki kepadaku,\n
+        dan berilah aku petunjuk, dabn berilah kesehatan bagiku dan berilah ampunan kepadaku.\n\n
+
+9. Sujud Kedua\n\n
+
+Sujud kedua, ketiga, dan keempat dikerjakan seperti sujud pertama baik cara maupun bacaannya.\n\n</string>
+    <string name="shalat_zuhur6">
+
+10. Tasyahud Awal\n\n
+
+Pada raka\’at kedua (jika kita Shalat kecuali shalat Subuh), \n
+        kita duduk membentuk tasyahud awal dengan sikap kaki kanan tegak dan kaki kiri diduduki sambil membaca tasyahud awal:\n\n
+
+اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ ِللهِ،\n
+        السَّلاَمُ عَلَيْكَ اَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،\n
+        السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِاللهِ الصَّالِحِيْنَ،\n
+        أَشْهَدُ اَنْ لآ إِلَهَ إِلاَّاللهُ وَاَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهُ،\n
+        اَللهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ،\n\n
+
+Attahiyyaatul mubaarakaatush shalawatuth thayyibaatu lillaah.\n
+        Assalaamu \‘alaika ayyuhan nabiyyu warahmatullaahi wabarakaatuh.\n
+        Assalaamu \‘alainaa wa \‘alaa \‘ibadadillaahish shaalihiin.\n
+        Asyhadu allaa ilaaha illallaah. Wa asyhadu anna muhammadar rasuulullaah.\n
+        Allaahumma shalli \‘alaa sayyidinaa muhammad.\n\n
+
+        Segala kehormatan, keberkahan, rahmat dan kebaikan adalah milik Allah.\n
+        Semoga keselamatan, rahmat Allah dan berkah-Nya (tetap tercurahkan) atas mu, wahai Nabi (Muhammad).\n
+        Semoga keselamatan (tetap terlimpahkan) atas kami dan atas hamba-hamba Allah yang saleh.\n
+        Aku bersaksi bahwa tidak ada Tuhan selain Allah.\n
+        Dan aku bersaksi bahwa muhammad adalah utusan Allah.\n
+        Ya Allah, limpahkanlah rahmat kepada Nabi Muhammad.\n\n</string>
+    <string name="shalat_zuhur7">
+
+Selesai Tahiyat Awal, lalu berdiri kembali dengan mengangkat kedua tangan setinggi telinga sambil membaca Allaahu akbar\n
+        untuk mengerjakan raka\’at ketiga (cara-caranya sama seperti raka\’at pertama \n
+        (tanpa dimulai membaca do\’a Iftitah dan sesudah membaca surat Al-Fatihah ,\n
+        tidak membaca surat pendek maupun ayat-ayat Al-Qur\’an).\n\n
+
+Selesai raka\’at ketiga, langsung mengerjakan raka\’at keempat, \n
+        (cara-caranya sama seperti raka’at kedua, hanya saja setelah sujud terakhir (sujud kedua),\n
+        lalu duduk kaki bersilang (tawarruk) atau tahiyat akhir.\n</string>
+    <string name="shalat_zuhur8">
+                11.Tahiyatul Akhir\n\n
+
+Cara duduknya:\n\n
+            usahakan pantat menempel di alas shalat dan kaki kiri dimasukkan ke bawah kaki kanan.\n
+            Jari-jari kaki kanan tetap menekan ke kiri alas shalat.\n
+            Bacaan tahiyat akhir sama seperti bacaan tahiyat awal ditambah dengan bacaan berikut ini:\n
+
+Wa \‘alaa aali sayyidinaa muhammad.\n\n
+
+Artinya:\n\n
+
+Ya Allah, limpahkanlah rahmat atas keluarga Nabi Muhammad SAW.\n\n
+
+Disunatkan membaca Shalawat Ibrahimiyah :\n
+
+كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْمَ\n
+            وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّد\n
+            كَمَا بَرَكْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْم\n
+            فِى الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَجِيْد\n
+
+Kamaa shallaitaa \‘alaa sayyidinaa ibraahiim wa \‘alaa aali sayyidinaa ibraahiim.\n
+            Wa baarik \‘alaa sayyidinaa muhammad wa \‘alaa aali sayyidinaa muhammad.\n
+            Kamaa baarakta \‘alaa sayyidinaa ibraahiim wa \‘alaa aali sayyidinaa ibraahiim.\n
+            Fil \‘aalamiina innaka hamiidummajiid.\n\n
+               Artinya:\n\n
+
+Sebagaimana pernah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya.\n
+            Dan limpahilah berkah atas Nabi Muhammad beserta para keluarganya.\n
+            Sebagaimana Engkau memberi berkah kepada Nabi Ibrahim beserta keluarganya.\n
+            Di seluruh alam semesta Engkaulah Yang Terpuji dan Maha Mulia.\n\n</string>
+    <string name="shalat_zuhur9">
+
+12. Salam\n\n
+
+Selesai tahiyat akhir, kemudia salam dengan menengok ke kanan dan ke kiri sambil membaca:\n
+
+Assalaamu’alaikum warahmatullaahi wabarakaatuh.\n\n
+
+Artinya:\n\n
+
+Keselamatan dan rahmat Allah semoga tetap pada kamu sekalian.\n
+
+Pada waktu salam pertama kita terlebih dahulu menengok ke sebelah kanan, baru ke sebelah kiri.\n
+            Dengan salam, berarti shalat kita telah selesai.\n\n
+
+
+    </string>
+    <string name="shalat_ashar">
+        Jumlah rakaat shalat asyar sama seperti shalat dzuhur yakni 4 (empat) rakaat,\n
+        dengan memelankan bacaannya dan dengan duduk tasyahhud dua kali duduk tasyahhud\n.
+        Berikut adalah lafadz niat shalat asyar 4 rakaat dalam bahasa arab, latin lengkap artinya:\n\n
+
+اُصَلّى فَرْضَ الْعَصْرِاَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى\n\n
+
+USHOLLII FARDHOL ASHRI ARBAA RAKAAATIM MUSTAQBILAL QIBLATI ADAA-AN MAMUUMAN LILLAAHI TAAALA.\n\n
+Artinya :\n\n
+Aku berniat shalat fardu Ashar empat rakaat menghadap kiblat sebagai mamum karena Allah Taala\n\n</string>
+    <string name="shalat_ashar1">
+         2. Kemudian takbiratul ihram (mengangkat kedua tangan sambil membaca: Allaahu akbar (Allah Maha Besar).\n\n
+
+3. Kemudian kedua tangan disedekapkan pada dada dan membaca doa iftitah:\n\n
+
+للهُ اَكْبَرْ كَبِيْرًا وَالْحَمْدُ ِللهِ كَثِيْرً وَسُبْحَانَ اللهِ بُكْرَةً وَأَصِيْلاً.\n أِنِّ وَجَّهْةُ وَجْهِيَ ِللذِيْ فَطَرَالسَّمَوَاتِ وَاْلآَرْضَ حَنِيِيْفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِيْنَ.\n إِنَّ صَلاَتِيْ وَنُسُكِيْ وَمْحْيَايَ وَمَمَاتِيْ ِللهِ رَبِّ الْعَالَمِيْنَ.\n لاَشَرِيْكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِيْن\n\n
+
+        Allaahu akbaru kabiiraa wal hamdu lillaahi katsiiraa wasubhaanallaahi bukrataw waashiilaa.\n
+        Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifam muslimaw wamaa ana minal musyrikiin.\n
+        Inna shalaatii wanusukii wamahyaaya wamamaatii lillaahirabbil aalamiin.\n
+        Laa syariika lahuu wa bidzaalika umirtu wa ana minal muslimiin.\n\n
+
+Artinya:\n\n
+
+Allah Maha Besar, Maha Sempurna kebesaran-Nya. \n
+        Segala puji bagi Allah, pujian yang sebanyak-banyaknya. Dan Maha Suci Allah sepanjang pagi dan petang.\n
+        Kuhadapkan wajahku kepada zat yang telah menciptakan langit dan bumi dengan penuh ketulusan dan kepasrahan dan\n
+        aku bukanlah termasuk orang-orang yang musyrik. Sesungguhnya shalatku, ibadahku, hidupku dan matiku semuanya untuk Allah,\n
+        penguasa alam semesta.\n
+        Tidak ada sekutu bagi-Nya dan dengan demikianlah aku diperintahkan dan aku termasuk orang-orang islam.\n</string>
+    <string name="shalat_ashar2">
+         4.   Dilanjutkan dengan membaca surat Al-Fatihah:\n\n
+
+.بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ .\n الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ .\n الرَّحْمَٰنِ الرَّحِيم .\n مَالِكِ يَوْمِ الدِّينِ   .\n إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِين\n
+.اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ \n. صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّين\n\n
+
+Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil aalamiin.\n
+        Arrahmaanir rahiim.\n
+        Maalikiyaumiddiin. Iyyaaka nabudu waiyyaaka nastaiinu.\n
+        Ihdinash shiraathal mustaqiim. Shiraathal ladziina anamta alaihim ghairil maghdhuubi alaihim waladhdhaalliin.\n
+        Aamiin.\n\n
+
+Artinya:\n\n
+
+Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.\n
+        Segala puji bagi Allah, Tuhan semesta alam.\n
+        Yang Maha Pengasih lagi Maha Penyayang. Penguasa hari pembalasan.\n
+        Hanya kepada-Mu lah aku menyembah dan hanya kepada-Mu lah aku memohon pertolongan.\n
+        Tunjukilah kami jalan yang lurus. Yaitu jalannya orang-orang yang telah Kau berikan nikmat,\n
+        bukan jalannya orang-orang yang Kau murkai dan bukan pula jalannya orang-orang yang sesat.\n\n
+
+Dilanjutkan dengan membaca salah satu surah pendek atau ayat-ayat dalam Al-Quran.\n</string>
+    <string name="shalat_ashar3">
+              5. Ruku\n\n
+
+Selesai membaca surat, lalu kedua tangan diangkat setinggi telinga dan membaca Allaahu akbar,\n
+        kemudian badan dibungkukkan, kedua tangan memegang lutut dan  ditekankan.\n
+        Usahakan antara punggung dan kepala supaya rata. Setelah sempurna, kemudian membaca:\n
+
+Subhaana rabbiyal \‘adziimi wa bihamdih. (3x)\n\n
+
+Artinya:\n\n
+
+Maha Suci Tuhanku Yang Maha Agung serta memujilah aku kepada-Nya. (3x)\n\n
+
+6. I\’tidal\n
+
+Setelah ruku\’, kemudian bangkit tegak dengan mengangkat kedua tangan setinggi telinga sambil membaca:\n
+
+Sami\’allaahu liman hamidah.\n
+
+Artinya:\n
+
+Allah mendengar orang yang memuji-Nya.\n
+
+Setelah berdiri tegak lalu membaca:\n
+
+Rabbanaa lakal hamdu mil\’us samaawati wa mil \‘ulardhi wa mil \‘umaasyi\’ta min syai\’in ba\’du.\n\n
+
+Artinya:\n\n
+
+Ya Allah Tuhan Kami.\n
+        Bagi-Mu segala puji, sepenuh langit dan bumi dan sepenuh barang yang Engkau kehendaki sesudah itu.\n\n</string>
+    <string name="shalat_ashar4">
+         7. Sujud\n\n
+
+Selesai I\’tidal lalu sujud; dengan meletakkan dahi di alas shalat.\n
+        Ketika turun, yaitu dari berdiri i\’tidal ke sujud sambil memabca Allahuu akbar.\n
+        Dan saat sujud membaca tasbih:\n
+
+Subhaana rabbiyal a\‘laa wa bihamdih. (3x)\n\n
+
+Artinya:\n\n
+
+Maha Suci Allah, serta memujilah aku kepada-Nya\n\n
+
+        8. Duduk di antar dua Sujud\n\n
+
+Setelah sujud lalu bangun untuk duduk sambil membaca Allaahu akbar, dan saat duduk membaca:\n
+
+Rabbighfirlii warhamnii wajburnii warfa\’nii warzuqnii wahdinii wa\’aafinii wa\’fu \‘annii.\n
+
+Artinya:\n\n
+
+Ya Allah, ampunilah dosaku, belas kasihanilah aku dan angkatlah derajatku dan ebrilah rezeki kepadaku,
+        dan berilah aku petunjuk, dabn berilah kesehatan bagiku dan berilah ampunan kepadaku.\n\n</string>
+    <string name="shalat_ashar5">
+
+9. Sujud Kedua\n\n
+
+Sujud kedua, ketiga, dan keempat dikerjakan seperti sujud pertama baik cara maupun bacaannya.\n\n
+
+10. Tasyahud Awal\n\n
+
+Pada raka\’at kedua (jika kita Shalat kecuali shalat Subuh), \n
+        kita duduk membentuk tasyahud awal dengan sikap kaki kanan tegak dan kaki kiri diduduki sambil membaca tasyahud awal:\n\n
+
+اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ ِللهِ،\n
+        السَّلاَمُ عَلَيْكَ اَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،\n
+        السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِاللهِ الصَّالِحِيْنَ،\n
+        أَشْهَدُ اَنْ لآ إِلَهَ إِلاَّاللهُ وَاَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهُ،\n
+        اَللهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ،\n\n
+
+Attahiyyaatul mubaarakaatush shalawatuth thayyibaatu lillaah.\n
+        Assalaamu \‘alaika ayyuhan nabiyyu warahmatullaahi wabarakaatuh.\n
+        Assalaamu \‘alainaa wa \‘alaa \‘ibadadillaahish shaalihiin.\n
+        Asyhadu allaa ilaaha illallaah. Wa asyhadu anna muhammadar rasuulullaah.\n
+        Allaahumma shalli \‘alaa sayyidinaa muhammad.\n\n
+        Segala kehormatan, keberkahan, rahmat dan kebaikan adalah milik Allah.\n
+        Semoga keselamatan, rahmat Allah dan berkah-Nya (tetap tercurahkan) atas mu, wahai Nabi (Muhammad).\n
+        Semoga keselamatan (tetap terlimpahkan) atas kami dan atas hamba-hamba Allah yang saleh.\n
+        Aku bersaksi bahwa tidak ada Tuhan selain Allah.\n
+        Dan aku bersaksi bahwa muhammad adalah utusan Allah.\n
+        Ya Allah, limpahkanlah rahmat kepada Nabi Muhammad.\n\n</string>
+    <string name="shalat_ashar6">
+
+Selesai Tahiyat Awal, lalu berdiri kembali dengan mengangkat kedua tangan setinggi telinga sambil membaca Allaahu akbar\n
+        untuk mengerjakan raka\’at ketiga (cara-caranya sama seperti raka\’at pertama \n
+        (tanpa dimulai membaca do\’a Iftitah dan sesudah membaca surat Al-Fatihah ,\n
+        tidak membaca surat pendek maupun ayat-ayat Al-Qur\’an).\n\n
+
+Selesai raka\’at ketiga, langsung mengerjakan raka\’at keempat, \n
+        (cara-caranya sama seperti raka’at kedua, hanya saja setelah sujud terakhir (sujud kedua),\n
+        lalu duduk kaki bersilang (tawarruk) atau tahiyat akhir.\n</string>
+    <string name="shalat_ashar7">
+
+                11.Tahiyatul Akhir\n\n
+
+Cara duduknya:\n\n
+            usahakan pantat menempel di alas shalat dan kaki kiri dimasukkan ke bawah kaki kanan.\n
+            Jari-jari kaki kanan tetap menekan ke kiri alas shalat.\n
+            Bacaan tahiyat akhir sama seperti bacaan tahiyat awal ditambah dengan bacaan berikut ini:\n
+
+Wa \‘alaa aali sayyidinaa muhammad.\n\n
+
+Artinya:\n\n
+
+Ya Allah, limpahkanlah rahmat atas keluarga Nabi Muhammad SAW.\n\n
+
+Disunatkan membaca Shalawat Ibrahimiyah :\n
+
+كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْمَ\n
+            وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّد\n
+            كَمَا بَرَكْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْم\n
+            فِى الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَجِيْد\n\n
+
+Kamaa shallaitaa \‘alaa sayyidinaa ibraahiim wa \‘alaa aali sayyidinaa ibraahiim.\n
+            Wa baarik \‘alaa sayyidinaa muhammad wa \‘alaa aali sayyidinaa muhammad.\n
+            Kamaa baarakta \‘alaa sayyidinaa ibraahiim wa \‘alaa aali sayyidinaa ibraahiim.\n
+            Fil \‘aalamiina innaka hamiidummajiid.\n\n
+               Artinya:\n\n
+
+Sebagaimana pernah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya.\n
+            Dan limpahilah berkah atas Nabi Muhammad beserta para keluarganya.\n
+            Sebagaimana Engkau memberi berkah kepada Nabi Ibrahim beserta keluarganya.\n
+            Di seluruh alam semesta Engkaulah Yang Terpuji dan Maha Mulia.\n\n</string>
+    <string name="shalat_ashar8">
+
+12. Salam\n\n
+
+Selesai tahiyat akhir, kemudia salam dengan menengok ke kanan dan ke kiri sambil membaca:\n
+
+Assalaamu’alaikum warahmatullaahi wabarakaatuh.\n\n
+
+Artinya:\n\n
+
+Keselamatan dan rahmat Allah semoga tetap pada kamu sekalian.\n
+
+Pada waktu salam pertama kita terlebih dahulu menengok ke sebelah kanan, baru ke sebelah kiri.\n
+            Dengan salam, berarti shalat kita telah selesai.\n\n
+
+    </string>
+    <string name="shalat_maghrib">
+        Ada 3 (tiga) rakaat dalam shalat maghrib,\n
+        dengan mengeraskan bacaannya pada dua rakaat yang pertama\n
+        dan memelankan bacaannya pada rakaat ke tiga atau rakaat terakhir,\n
+        serta duduk tasyahud pada rakaat yang kedua dan ketiga.\n
+        Dan berikut adalah lafadz niat shalat maghrib lengkap bahasa arab, latin dan artinya:\n\n
+
+اُصَلّى فَرْضَ الْمَغْرِبِ ثَلاَثَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى\n\n
+
+USHOLLII FARDHOL MAGHRIBI TSALAATSA RAKAAATIM MUSTAQBILAL QIBLATI ADAA-AN MAMUUMAN LILLAAHI TAAALA.\n\n
+Artinya :\n\n
+Aku berniat shalat fardu Maghrib tiga rakaat menghadap kiblat sebagai mamum karena Allah Taala\n\n</string>
+    <string name="shalat_maghrib1">
+         2. Kemudian takbiratul ihram (mengangkat kedua tangan sambil membaca: Allaahu akbar (Allah Maha Besar).\n
+
+3. Kemudian kedua tangan disedekapkan pada dada dan membaca doa iftitah:\n\n
+
+للهُ اَكْبَرْ كَبِيْرًا وَالْحَمْدُ ِللهِ كَثِيْرً وَسُبْحَانَ اللهِ بُكْرَةً وَأَصِيْلاً.\n أِنِّ وَجَّهْةُ وَجْهِيَ ِللذِيْ فَطَرَالسَّمَوَاتِ وَاْلآَرْضَ حَنِيِيْفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِيْنَ.\n إِنَّ صَلاَتِيْ وَنُسُكِيْ وَمْحْيَايَ وَمَمَاتِيْ ِللهِ رَبِّ الْعَالَمِيْنَ.\n لاَشَرِيْكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِيْن\n\n
+
+        Allaahu akbaru kabiiraa wal hamdu lillaahi katsiiraa wasubhaanallaahi bukrataw waashiilaa.\n
+        Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifam muslimaw wamaa ana minal musyrikiin.\n
+        Inna shalaatii wanusukii wamahyaaya wamamaatii lillaahirabbil aalamiin.\n
+        Laa syariika lahuu wa bidzaalika umirtu wa ana minal muslimiin.\n
+
+Artinya:\n\n
+
+Allah Maha Besar, Maha Sempurna kebesaran-Nya. \n
+        Segala puji bagi Allah, pujian yang sebanyak-banyaknya. Dan Maha Suci Allah sepanjang pagi dan petang.\n
+        Kuhadapkan wajahku kepada zat yang telah menciptakan langit dan bumi dengan penuh ketulusan dan kepasrahan dan\n
+        aku bukanlah termasuk orang-orang yang musyrik. Sesungguhnya shalatku, ibadahku, hidupku dan matiku semuanya untuk Allah,\n
+        penguasa alam semesta.\n
+        Tidak ada sekutu bagi-Nya dan dengan demikianlah aku diperintahkan dan aku termasuk orang-orang islam.\n</string>
+    <string name="shalat_maghrib2">
+
+         4.   Dilanjutkan dengan membaca surat Al-Fatihah:\n\n
+
+.بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ .\n الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ .\n الرَّحْمَٰنِ الرَّحِيم .\n مَالِكِ يَوْمِ الدِّينِ   .\n إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِين\n
+.اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ \n. صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّين\n\n
+
+Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil aalamiin.\n
+        Arrahmaanir rahiim.\n
+        Maalikiyaumiddiin. Iyyaaka nabudu waiyyaaka nastaiinu.\n
+        Ihdinash shiraathal mustaqiim. Shiraathal ladziina anamta alaihim ghairil maghdhuubi alaihim waladhdhaalliin.\n
+        Aamiin.\n
+
+Artinya:\n\n
+
+Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.\n
+        Segala puji bagi Allah, Tuhan semesta alam.\n
+        Yang Maha Pengasih lagi Maha Penyayang. Penguasa hari pembalasan.\n
+        Hanya kepada-Mu lah aku menyembah dan hanya kepada-Mu lah aku memohon pertolongan.\n
+        Tunjukilah kami jalan yang lurus. Yaitu jalannya orang-orang yang telah Kau berikan nikmat,\n
+        bukan jalannya orang-orang yang Kau murkai dan bukan pula jalannya orang-orang yang sesat.\n\n
+
+Dilanjutkan dengan membaca salah satu surah pendek atau ayat-ayat dalam Al-Quran.\n</string>
+    <string name="shalat_maghrib3">
+
+              5. Ruku\n\n
+
+Selesai membaca surat, lalu kedua tangan diangkat setinggi telinga dan membaca Allaahu akbar,\n
+        kemudian badan dibungkukkan, kedua tangan memegang lutut dan  ditekankan.\n
+        Usahakan antara punggung dan kepala supaya rata. Setelah sempurna, kemudian membaca:\n
+
+Subhaana rabbiyal \‘adziimi wa bihamdih. (3x)\n\n
+
+Artinya:\n\n
+
+Maha Suci Tuhanku Yang Maha Agung serta memujilah aku kepada-Nya. (3x)\n\n
+
+6. I\’tidal\n
+
+Setelah ruku\’, kemudian bangkit tegak dengan mengangkat kedua tangan setinggi telinga sambil membaca:\n
+
+Sami\’allaahu liman hamidah.\n
+
+Artinya:\n\n
+
+Allah mendengar orang yang memuji-Nya.\n
+
+Setelah berdiri tegak lalu membaca:\n
+
+Rabbanaa lakal hamdu mil\’us samaawati wa mil \‘ulardhi wa mil \‘umaasyi\’ta min syai\’in ba\’du.\n\n
+
+Artinya:\n\n
+
+Ya Allah Tuhan Kami. Bagi-Mu segala puji, sepenuh langit dan bumi dan sepenuh barang yang Engkau kehendaki sesudah itu.\n\n</string>
+    <string name="shalat_maghrib4">
+         7. Sujud\n\n
+
+Selesai I\’tidal lalu sujud; dengan meletakkan dahi di alas shalat.\n
+        Ketika turun, yaitu dari berdiri i\’tidal ke sujud sambil memabca Allahuu akbar.\n
+        Dan saat sujud membaca tasbih:\n\n
+
+Subhaana rabbiyal a\‘laa wa bihamdih. (3x)\n\n
+
+Artinya:\n\n
+
+Maha Suci Allah, serta memujilah aku kepada-Nya\n\n
+
+        8. Duduk di antar dua Sujud\n\n
+
+Setelah sujud lalu bangun untuk duduk sambil membaca Allaahu akbar, dan saat duduk membaca:\n
+
+Rabbighfirlii warhamnii wajburnii warfa\’nii warzuqnii wahdinii wa\’aafinii wa\’fu \‘annii.\n
+
+Artinya:\n\n
+
+Ya Allah, ampunilah dosaku, belas kasihanilah aku dan angkatlah derajatku dan ebrilah rezeki kepadaku,
+        dan berilah aku petunjuk, dabn berilah kesehatan bagiku dan berilah ampunan kepadaku.\n\n</string>
+    <string name="shalat_maghrib5">
+
+9. Sujud Kedua\n\n
+
+Sujud kedua, ketiga, dan keempat dikerjakan seperti sujud pertama baik cara maupun bacaannya.\n\n
+
+10. Tasyahud Awal\n\n
+
+Pada raka\’at kedua (jika kita Shalat kecuali shalat Subuh), \n
+        kita duduk membentuk tasyahud awal dengan sikap kaki kanan tegak dan kaki kiri diduduki sambil membaca tasyahud awal:\n\n
+
+اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ ِللهِ،\n
+        السَّلاَمُ عَلَيْكَ اَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،\n
+        السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِاللهِ الصَّالِحِيْنَ،\n
+        أَشْهَدُ اَنْ لآ إِلَهَ إِلاَّاللهُ وَاَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهُ،\n
+        اَللهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ،\n\n
+
+Attahiyyaatul mubaarakaatush shalawatuth thayyibaatu lillaah.\n
+        Assalaamu \‘alaika ayyuhan nabiyyu warahmatullaahi wabarakaatuh.\n
+        Assalaamu \‘alainaa wa \‘alaa \‘ibadadillaahish shaalihiin.\n
+        Asyhadu allaa ilaaha illallaah. Wa asyhadu anna muhammadar rasuulullaah.\n
+        Allaahumma shalli \‘alaa sayyidinaa muhammad.\n\n
+
+        Segala kehormatan, keberkahan, rahmat dan kebaikan adalah milik Allah.\n
+        Semoga keselamatan, rahmat Allah dan berkah-Nya (tetap tercurahkan) atas mu, wahai Nabi (Muhammad).\n
+        Semoga keselamatan (tetap terlimpahkan) atas kami dan atas hamba-hamba Allah yang saleh.\n
+        Aku bersaksi bahwa tidak ada Tuhan selain Allah.\n
+        Dan aku bersaksi bahwa muhammad adalah utusan Allah.\n
+        Ya Allah, limpahkanlah rahmat kepada Nabi Muhammad.\n\n</string>
+    <string name="shalat_maghrib6">
+
+Selesai Tahiyat Awal, lalu berdiri kembali dengan mengangkat kedua tangan setinggi telinga sambil membaca Allaahu akbar\n
+        untuk mengerjakan raka\’at ketiga (cara-caranya sama seperti raka\’at pertama \n
+        (tanpa dimulai membaca do\’a Iftitah dan sesudah membaca surat Al-Fatihah ,\n
+        tidak membaca surat pendek maupun ayat-ayat Al-Qur\’an).\n\n
+
+Selesai raka\’at ketiga, langsung mengerjakan raka\’at keempat, \n
+        (cara-caranya sama seperti raka’at kedua, hanya saja setelah sujud terakhir (sujud kedua),\n
+        lalu duduk kaki bersilang (tawarruk) atau tahiyat akhir.\n</string>
+    <string name="shalat_maghrib7">
+                11.Tahiyatul Akhir\n\n
+
+Cara duduknya:\n
+            usahakan pantat menempel di alas shalat dan kaki kiri dimasukkan ke bawah kaki kanan.\n
+            Jari-jari kaki kanan tetap menekan ke kiri alas shalat.\n
+            Bacaan tahiyat akhir sama seperti bacaan tahiyat awal ditambah dengan bacaan berikut ini:\n
+
+Wa \‘alaa aali sayyidinaa muhammad.\n\n
+
+Artinya:\n\n
+
+Ya Allah, limpahkanlah rahmat atas keluarga Nabi Muhammad SAW.\n\n
+
+Disunatkan membaca Shalawat Ibrahimiyah :\n\n
+
+كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْمَ\n
+            وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّد\n
+            كَمَا بَرَكْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْم\n
+            فِى الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَجِيْد\n\n
+
+Kamaa shallaitaa \‘alaa sayyidinaa ibraahiim wa \‘alaa aali sayyidinaa ibraahiim.\n
+            Wa baarik \‘alaa sayyidinaa muhammad wa \‘alaa aali sayyidinaa muhammad.\n
+            Kamaa baarakta \‘alaa sayyidinaa ibraahiim wa \‘alaa aali sayyidinaa ibraahiim.\n
+            Fil \‘aalamiina innaka hamiidummajiid.\n\n
+               Artinya:\n\n
+
+Sebagaimana pernah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya.\n
+            Dan limpahilah berkah atas Nabi Muhammad beserta para keluarganya.\n
+            Sebagaimana Engkau memberi berkah kepada Nabi Ibrahim beserta keluarganya.\n
+            Di seluruh alam semesta Engkaulah Yang Terpuji dan Maha Mulia.\n\n</string>
+    <string name="shalat_maghrib8">
+
+12. Salam\n\n
+
+Selesai tahiyat akhir, kemudia salam dengan menengok ke kanan dan ke kiri sambil membaca:\n
+
+Assalaamu’alaikum warahmatullaahi wabarakaatuh.\n\n
+
+Artinya:\n\n
+
+Keselamatan dan rahmat Allah semoga tetap pada kamu sekalian.\n
+
+Pada waktu salam pertama kita terlebih dahulu menengok ke sebelah kanan, baru ke sebelah kiri.\n
+            Dengan salam, berarti shalat kita telah selesai.\n\n
+
+    </string>
+    <string name="shalat_isya">
+        Sama seperti shalat dzuhur dan asyar, yakni jumlah rakaatnya ada 4 namun berbeda bacaannya.\n
+        Jika dalam shalat dzuhur dan asyar memelankan bacaannya,\n
+        maka pada shalat isya harus mengeraskan bacaannya pada kedua rakaat yang pertama dan\n
+        memelankan bacaannya pada kedua rakaat yang lain (dua rakaat terakhir),\n
+        serta duduk tasyahud dua kali disetiap dua rakaat.\n
+        Untuk bacaan niat shalat isya 4 rakaat adalah sebagai berikut lengkap dengan lafadz bahasa arab, latin dan artinya:\n
+
+اُصَلّى فَرْضَ الْعِشَاءِ اَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى\n\n
+
+USHOLLII FARDHOL ISYAAI ARBAA RAKAAATIM MUSTAQBILAL QIBLATI ADAA-AN MAMUUMAN LILLAAHI TAAALA.\n\n
+Artinya :\n\n
+Aku berniat shalat fardu Isya empat rakaat menghadap kiblat sebagai mamum karena Allah Taala\n\n</string>
+    <string name="shalat_isya1">
+         2. Kemudian takbiratul ihram (mengangkat kedua tangan sambil membaca: Allaahu akbar (Allah Maha Besar).\n
+
+3. Kemudian kedua tangan disedekapkan pada dada dan membaca doa iftitah:\n\n
+
+للهُ اَكْبَرْ كَبِيْرًا وَالْحَمْدُ ِللهِ كَثِيْرً وَسُبْحَانَ اللهِ بُكْرَةً وَأَصِيْلاً.\n أِنِّ وَجَّهْةُ وَجْهِيَ ِللذِيْ فَطَرَالسَّمَوَاتِ وَاْلآَرْضَ حَنِيِيْفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِيْنَ.\n إِنَّ صَلاَتِيْ وَنُسُكِيْ وَمْحْيَايَ وَمَمَاتِيْ ِللهِ رَبِّ الْعَالَمِيْنَ.\n لاَشَرِيْكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِيْن\n\n
+Allaahu akbaru kabiiraa wal hamdu lillaahi katsiiraa wasubhaanallaahi bukrataw waashiilaa.\n
+        Innii wajjahtu wajhiya lilladzii fatharas samaawaati wal ardha haniifam muslimaw wamaa ana minal musyrikiin.\n
+        Inna shalaatii wanusukii wamahyaaya wamamaatii lillaahirabbil aalamiin.\n
+        Laa syariika lahuu wa bidzaalika umirtu wa ana minal muslimiin.\n
+
+Artinya:\n\n
+
+Allah Maha Besar, Maha Sempurna kebesaran-Nya. \n
+        Segala puji bagi Allah, pujian yang sebanyak-banyaknya. Dan Maha Suci Allah sepanjang pagi dan petang.\n
+        Kuhadapkan wajahku kepada zat yang telah menciptakan langit dan bumi dengan penuh ketulusan dan kepasrahan dan\n
+        aku bukanlah termasuk orang-orang yang musyrik. Sesungguhnya shalatku, ibadahku, hidupku dan matiku semuanya untuk Allah,\n
+        penguasa alam semesta.\n
+        Tidak ada sekutu bagi-Nya dan dengan demikianlah aku diperintahkan dan aku termasuk orang-orang islam.\n</string>
+    <string name="shalat_isya2">
+         4.   Dilanjutkan dengan membaca surat Al-Fatihah:\n\n
+
+.بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ .\n الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ .\n الرَّحْمَٰنِ الرَّحِيم .\n مَالِكِ يَوْمِ الدِّينِ   .\n إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِين\n
+.اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ \n. صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّين\n\n
+
+Bismillaahir rahmaanir rahiim. Alhamdu lillaahi rabbil aalamiin.\n
+        Arrahmaanir rahiim.\n
+        Maalikiyaumiddiin. Iyyaaka nabudu waiyyaaka nastaiinu.\n
+        Ihdinash shiraathal mustaqiim. Shiraathal ladziina anamta alaihim ghairil maghdhuubi alaihim waladhdhaalliin.\n
+        Aamiin.\n
+
+Artinya:\n\n
+
+Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.\n
+        Segala puji bagi Allah, Tuhan semesta alam.\n
+        Yang Maha Pengasih lagi Maha Penyayang. Penguasa hari pembalasan.\n
+        Hanya kepada-Mu lah aku menyembah dan hanya kepada-Mu lah aku memohon pertolongan.\n
+        Tunjukilah kami jalan yang lurus. Yaitu jalannya orang-orang yang telah Kau berikan nikmat,\n
+        bukan jalannya orang-orang yang Kau murkai dan bukan pula jalannya orang-orang yang sesat.\n\n
+
+Dilanjutkan dengan membaca salah satu surah pendek atau ayat-ayat dalam Al-Quran.\n</string>
+    <string name="shalat_isya3">
+              5. Ruku\n\n
+
+Selesai membaca surat, lalu kedua tangan diangkat setinggi telinga dan membaca Allaahu akbar,\n
+        kemudian badan dibungkukkan, kedua tangan memegang lutut dan  ditekankan.\n
+        Usahakan antara punggung dan kepala supaya rata. Setelah sempurna, kemudian membaca:\n
+
+Subhaana rabbiyal \‘adziimi wa bihamdih. (3x)\n\n
+
+Artinya:\n\n
+
+Maha Suci Tuhanku Yang Maha Agung serta memujilah aku kepada-Nya. (3x)\n\n
+
+6. I\’tidal\n
+
+Setelah ruku\’, kemudian bangkit tegak dengan mengangkat kedua tangan setinggi telinga sambil membaca:\n
+
+Sami\’allaahu liman hamidah.\n
+
+Artinya:\n\n
+
+Allah mendengar orang yang memuji-Nya.\n
+
+Setelah berdiri tegak lalu membaca:\n
+
+Rabbanaa lakal hamdu mil\’us samaawati wa mil \‘ulardhi wa mil \‘umaasyi\’ta min syai\’in ba\’du.\n\n
+
+Artinya:\n\n
+
+Ya Allah Tuhan Kami. Bagi-Mu segala puji, sepenuh langit dan bumi dan sepenuh barang yang Engkau kehendaki sesudah itu.\n\n</string>
+    <string name="shalat_isya4">
+         7. Sujud\n\n
+
+Selesai I\’tidal lalu sujud; dengan meletakkan dahi di alas shalat.\n
+        Ketika turun, yaitu dari berdiri i\’tidal ke sujud sambil memabca Allahuu akbar.\n
+        Dan saat sujud membaca tasbih:
+
+Subhaana rabbiyal a\‘laa wa bihamdih. (3x)\n\n
+
+Artinya:\n\n
+
+Maha Suci Allah, serta memujilah aku kepada-Nya\n\n
+
+        8. Duduk di antar dua Sujud\n\n
+
+Setelah sujud lalu bangun untuk duduk sambil membaca Allaahu akbar, dan saat duduk membaca:\n
+
+Rabbighfirlii warhamnii wajburnii warfa\’nii warzuqnii wahdinii wa\’aafinii wa\’fu \‘annii.\n
+
+Artinya:\n\n
+
+Ya Allah, ampunilah dosaku, belas kasihanilah aku dan angkatlah derajatku dan ebrilah rezeki kepadaku,
+        dan berilah aku petunjuk, dabn berilah kesehatan bagiku dan berilah ampunan kepadaku.\n\n</string>
+    <string name="shalat_isya5">
+
+9. Sujud Kedua\n\n
+
+Sujud kedua, ketiga, dan keempat dikerjakan seperti sujud pertama baik cara maupun bacaannya.\n\n
+
+10. Tasyahud Awal\n\n
+
+Pada raka\’at kedua (jika kita Shalat kecuali shalat Subuh), \n
+        kita duduk membentuk tasyahud awal dengan sikap kaki kanan tegak dan kaki kiri diduduki sambil membaca tasyahud awal:\n\n
+
+اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ ِللهِ،\n
+        السَّلاَمُ عَلَيْكَ اَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،\n
+        السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِاللهِ الصَّالِحِيْنَ،\n
+        أَشْهَدُ اَنْ لآ إِلَهَ إِلاَّاللهُ وَاَشْهَدُ أَنَّ مُحَمَّدًا رَسُوْلُ اللهُ،\n
+        اَللهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ،\n\n
+
+Attahiyyaatul mubaarakaatush shalawatuth thayyibaatu lillaah.\n
+        Assalaamu \‘alaika ayyuhan nabiyyu warahmatullaahi wabarakaatuh.\n
+        Assalaamu \‘alainaa wa \‘alaa \‘ibadadillaahish shaalihiin.\n
+        Asyhadu allaa ilaaha illallaah. Wa asyhadu anna muhammadar rasuulullaah.\n
+        Allaahumma shalli \‘alaa sayyidinaa muhammad.\n\n
+
+        Segala kehormatan, keberkahan, rahmat dan kebaikan adalah milik Allah.\n
+        Semoga keselamatan, rahmat Allah dan berkah-Nya (tetap tercurahkan) atas mu, wahai Nabi (Muhammad).\n
+        Semoga keselamatan (tetap terlimpahkan) atas kami dan atas hamba-hamba Allah yang saleh.\n
+        Aku bersaksi bahwa tidak ada Tuhan selain Allah.\n
+        Dan aku bersaksi bahwa muhammad adalah utusan Allah.\n
+        Ya Allah, limpahkanlah rahmat kepada Nabi Muhammad.\n\n</string>
+    <string name="shalat_isya6">
+
+Selesai Tahiyat Awal, lalu berdiri kembali dengan mengangkat kedua tangan setinggi telinga sambil membaca Allaahu akbar\n
+        untuk mengerjakan raka\’at ketiga (cara-caranya sama seperti raka\’at pertama \n
+        (tanpa dimulai membaca do\’a Iftitah dan sesudah membaca surat Al-Fatihah ,\n
+        tidak membaca surat pendek maupun ayat-ayat Al-Qur\’an).\n\n
+
+Selesai raka\’at ketiga, langsung mengerjakan raka\’at keempat, \n
+        (cara-caranya sama seperti raka’at kedua, hanya saja setelah sujud terakhir (sujud kedua),\n
+        lalu duduk kaki bersilang (tawarruk) atau tahiyat akhir.\n</string>
+    <string name="shalat_isya7">
+
+                11.Tahiyatul Akhir\n\n
+
+Cara duduknya:\n\n
+            usahakan pantat menempel di alas shalat dan kaki kiri dimasukkan ke bawah kaki kanan.\n
+            Jari-jari kaki kanan tetap menekan ke kiri alas shalat.\n
+            Bacaan tahiyat akhir sama seperti bacaan tahiyat awal ditambah dengan bacaan berikut ini:\n
+
+Wa \‘alaa aali sayyidinaa muhammad.\n\n
+
+Artinya:\n\n
+
+Ya Allah, limpahkanlah rahmat atas keluarga Nabi Muhammad SAW.\n\n
+
+Disunatkan membaca Shalawat Ibrahimiyah :\n
+
+كَمَا صَلَّيْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْمَ\n
+            وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّد\n
+            كَمَا بَرَكْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْم\n
+            فِى الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَجِيْد\n\n
+
+Kamaa shallaitaa \‘alaa sayyidinaa ibraahiim wa \‘alaa aali sayyidinaa ibraahiim.\n
+            Wa baarik \‘alaa sayyidinaa muhammad wa \‘alaa aali sayyidinaa muhammad.\n
+            Kamaa baarakta \‘alaa sayyidinaa ibraahiim wa \‘alaa aali sayyidinaa ibraahiim.\n
+            Fil \‘aalamiina innaka hamiidummajiid.\n\n
+               Artinya:\n\n
+
+Sebagaimana pernah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya.\n
+            Dan limpahilah berkah atas Nabi Muhammad beserta para keluarganya.\n
+            Sebagaimana Engkau memberi berkah kepada Nabi Ibrahim beserta keluarganya.\n
+            Di seluruh alam semesta Engkaulah Yang Terpuji dan Maha Mulia.\n\n</string>
+    <string name="shalat_isya8">
+
+12. Salam\n\n
+
+Selesai tahiyat akhir, kemudia salam dengan menengok ke kanan dan ke kiri sambil membaca:\n
+
+Assalaamu’alaikum warahmatullaahi wabarakaatuh.\n\n
+
+Artinya:\n\n
+
+Keselamatan dan rahmat Allah semoga tetap pada kamu sekalian.\n
+
+Pada waktu salam pertama kita terlebih dahulu menengok ke sebelah kanan, baru ke sebelah kiri.\n
+            Dengan salam, berarti shalat kita telah selesai.\n\n
+
+
+    </string>
+</resources>
